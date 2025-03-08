@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "64d907e2d9d644e00a815c03"
+  },
+  "Supplier_ID": 1,
+  "Supplier_Name": "Acme Corporation",
+  "Supplier_Code": "ACME",
+  "Address": "123 Main Street, Anytown, CA 91234",
+  "Established_Year": 1980,
+  "Organization_Type": "Corporation",
+  "City": "Anytown",
+  "Province": "CA"
+},
+{
+  "_id": {
+    "$oid": "64d90b4ed9d644e00a815c04"
+  },
+  "Supplier_ID": 2,
+  "Supplier_Name": "XYZ Company",
+  "Supplier_Code": "XYZ",
+  "Address": "456 Elm Street, Los Angeles, CA 90001",
+  "Established_Year": 1990,
+  "Organization_Type": "Partnership",
+  "City": "Los Angeles",
+  "Province": "CA"
+},
+{
+  "_id": {
+    "$oid": "64d90b4ed9d644e00a815c05"
+  },
+  "Supplier_ID": 3,
+  "Supplier_Name": "ABC Industries",
+  "Supplier_Code": "ABC",
+  "Address": "789 Park Avenue, New York, NY 10021",
+  "Established_Year": 2000,
+  "Organization_Type": "Corporation",
+  "City": "New York",
+  "Province": "NY"
+},
+{
+  "_id": {
+    "$oid": "64d90b4ed9d644e00a815c06"
+  },
+  "Supplier_ID": 4,
+  "Supplier_Name": "LMN Corporation",
+  "Supplier_Code": "LMN",
+  "Address": "1010 Washington Street, Chicago, IL 60602",
+  "Established_Year": 2010,
+  "Organization_Type": "Corporation",
+  "City": "Chicago",
+  "Province": "IL"
+},
+{
+  "_id": {
+    "$oid": "64d90b4ed9d644e00a815c07"
+  },
+  "Supplier_ID": 5,
+  "Supplier_Name": "DEF Enterprises",
+  "Supplier_Code": "DEF",
+  "Address": "1111 Maple Street, Houston, TX 77002",
+  "Established_Year": 2020,
+  "Organization_Type": "LLC",
+  "City": "Houston",
+  "Province": "TX"
+}]

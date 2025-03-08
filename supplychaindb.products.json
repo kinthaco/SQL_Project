@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64d914bbd9d644e00a815c18"
+  },
+  "Product_ID": 1,
+  "Bin_card_ID": 1,
+  "Product_Code": "ACME123",
+  "Product_Name": "Acme Product 1",
+  "Product_Category": "Electronics",
+  "Color": "Blue",
+  "Price": 100
+},
+{
+  "_id": {
+    "$oid": "64d91a06d9d644e00a815c19"
+  },
+  "Product_ID": 2,
+  "Bin_card_ID": 2,
+  "Product_Code": "XYZ456",
+  "Product_Name": "XYZ Product 2",
+  "Product_Category": "Clothing",
+  "Color": "Red",
+  "Price": 50
+},
+{
+  "_id": {
+    "$oid": "64d91a06d9d644e00a815c1a"
+  },
+  "Product_ID": 3,
+  "Bin_card_ID": 3,
+  "Product_Code": "ABC789",
+  "Product_Name": "ABC Product 3",
+  "Product_Category": "Food",
+  "Color": "Green",
+  "Price": 20
+},
+{
+  "_id": {
+    "$oid": "64d91a06d9d644e00a815c1b"
+  },
+  "Product_ID": 4,
+  "Bin_card_ID": 4,
+  "Product_Code": "LMN012",
+  "Product_Name": "LMN Product 4",
+  "Product_Category": "Books",
+  "Color": "Yellow",
+  "Price": 30
+},
+{
+  "_id": {
+    "$oid": "64d91a06d9d644e00a815c1c"
+  },
+  "Product_ID": 5,
+  "Bin_card_ID": 5,
+  "Product_Code": "DEF345",
+  "Product_Name": "DEF Product 5",
+  "Product_Category": "Home & Garden",
+  "Color": "Purple",
+  "Price": 40
+}]

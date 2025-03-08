@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "64d9122fd9d644e00a815c0e"
+  },
+  "Employee_ID": 1,
+  "Warehouse_ID": 1,
+  "Emp_Code": "ACME123",
+  "Emp_First Name": "John",
+  "Emp_Last_Name": "Doe",
+  "Emp_Age": 30,
+  "Emp_Contact": 1234567890,
+  "Emp_Address": "123 Main Street, Anytown, CA 91234",
+  "Emp_City": "Anytown",
+  "Emp_Province": "CA"
+},
+{
+  "_id": {
+    "$oid": "64d912f3d9d644e00a815c0f"
+  },
+  "Employee_ID": 2,
+  "Warehouse_ID": 2,
+  "Emp_Code": "XYZ456",
+  "Emp_First Name": "Jane",
+  "Emp_Last_Name": "Doe",
+  "Emp_Age": 25,
+  "Emp_Contact": {
+    "$numberLong": "9876543210"
+  },
+  "Emp_Address": "456 Elm Street, Los Angeles, CA 90001",
+  "Emp_City": "Los Angeles",
+  "Emp_Province": "CA"
+},
+{
+  "_id": {
+    "$oid": "64d912f3d9d644e00a815c10"
+  },
+  "Employee_ID": 3,
+  "Warehouse_ID": 3,
+  "Emp_Code": "ABC789",
+  "Emp_First Name": "Bill",
+  "Emp_Last_Name": "Smith",
+  "Emp_Age": 40,
+  "Emp_Contact": 1010101010,
+  "Emp_Address": "789 Park Avenue, New York, NY 10021",
+  "Emp_City": "New York",
+  "Emp_Province": "NY"
+},
+{
+  "_id": {
+    "$oid": "64d912f3d9d644e00a815c11"
+  },
+  "Employee_ID": 4,
+  "Warehouse_ID": 4,
+  "Emp_Code": "LMN012",
+  "Emp_First Name": "Susan",
+  "Emp_Last_Name": "Jones",
+  "Emp_Age": 27,
+  "Emp_Contact": 1111111111,
+  "Emp_Address": "1010 Washington Street, Chicago, IL 60602",
+  "Emp_City": "Chicago",
+  "Emp_Province": "IL"
+},
+{
+  "_id": {
+    "$oid": "64d912f3d9d644e00a815c12"
+  },
+  "Employee_ID": 5,
+  "Warehouse_ID": 5,
+  "Emp_Code": "DEF345",
+  "Emp_First Name": "Peter",
+  "Emp_Last_Name": "Johnson",
+  "Emp_Age": 35,
+  "Emp_Contact": {
+    "$numberLong": "2222222222"
+  },
+  "Emp_Address": "1111 Maple Street, Houston, TX 77002",
+  "Emp_City": "Houston",
+  "Emp_Province": "TX"
+}]

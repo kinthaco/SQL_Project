@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64d90c18d9d644e00a815c08"
+  },
+  "Warehouse_ID": 2,
+  "CDC_ID": 4,
+  "Company_ID": 5,
+  "Address": "456 Elm Street, Los Angeles, CA 90001",
+  "Warehouse_Code": "XYZ",
+  "Area_in_sqm": 15000,
+  "Number_of_Departments": 10,
+  "Number_of_Employees": 200,
+  "Province": "CA",
+  "City": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "64d90c77d9d644e00a815c09"
+  },
+  "Warehouse_ID": 1,
+  "CDC_ID": 3,
+  "Company_ID": 4,
+  "Address": "123 Main Street, Anytown, CA 91234",
+  "Warehouse_Code": "ACME",
+  "Area_in_sqm": 10000,
+  "Number_of_Departments": 5,
+  "Number_of_Employees": 100,
+  "Province": "CA",
+  "City": "Anytown"
+},
+{
+  "_id": {
+    "$oid": "64d90c77d9d644e00a815c0a"
+  },
+  "Warehouse_ID": 2,
+  "CDC_ID": 4,
+  "Company_ID": 5,
+  "Address": "456 Elm Street, Los Angeles, CA 90001",
+  "Warehouse_Code": "XYZ",
+  "Area_in_sqm": 15000,
+  "Number_of_Departments": 10,
+  "Number_of_Employees": 200,
+  "Province": "CA",
+  "City": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "64d90c77d9d644e00a815c0b"
+  },
+  "Warehouse_ID": 3,
+  "CDC_ID": 5,
+  "Company_ID": 6,
+  "Address": "789 Park Avenue, New York, NY 10021",
+  "Warehouse_Code": "ABC",
+  "Area_in_sqm": 20000,
+  "Number_of_Departments": 15,
+  "Number_of_Employees": 300,
+  "Province": "NY",
+  "City": "New York"
+},
+{
+  "_id": {
+    "$oid": "64d90c77d9d644e00a815c0c"
+  },
+  "Warehouse_ID": 4,
+  "CDC_ID": 6,
+  "Company_ID": 7,
+  "Address": "1010 Washington Street, Chicago, IL 60602",
+  "Warehouse_Code": "LMN",
+  "Area_in_sqm": 25000,
+  "Number_of_Departments": 20,
+  "Number_of_Employees": 400,
+  "Province": "IL",
+  "City": "Chicago"
+},
+{
+  "_id": {
+    "$oid": "64d90c77d9d644e00a815c0d"
+  },
+  "Warehouse_ID": 5,
+  "CDC_ID": 7,
+  "Company_ID": 8,
+  "Address": "1111 Maple Street, Houston, TX 77002",
+  "Warehouse_Code": "DEF",
+  "Area_in_sqm": 30000,
+  "Number_of_Departments": 25,
+  "Number_of_Employees": 500,
+  "Province": "TX",
+  "City": "Houston"
+}]

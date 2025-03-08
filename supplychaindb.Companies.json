@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64d913b7d9d644e00a815c13"
+  },
+  "Company_ID": 1,
+  "Company_Code": "ACME",
+  "Company_Name": "Acme Corporation",
+  "HQ_Address": "123 Main Street, Anytown, CA 91234",
+  "Director_Name": "John Doe",
+  "Number Of Employees": 1000
+},
+{
+  "_id": {
+    "$oid": "64d913f7d9d644e00a815c14"
+  },
+  "Company_ID": 2,
+  "Company_Code": "XYZ",
+  "Company_Name": "XYZ Corporation",
+  "HQ_Address": "456 Elm Street, Los Angeles, CA 90001",
+  "Director_Name": "Jane Doe",
+  "Number Of Employees": 500
+},
+{
+  "_id": {
+    "$oid": "64d913f7d9d644e00a815c15"
+  },
+  "Company_ID": 3,
+  "Company_Code": "ABC",
+  "Company_Name": "ABC Corporation",
+  "HQ_Address": "789 Park Avenue, New York, NY 10021",
+  "Director_Name": "Bill Smith",
+  "Number Of Employees": 2000
+},
+{
+  "_id": {
+    "$oid": "64d913f7d9d644e00a815c16"
+  },
+  "Company_ID": 4,
+  "Company_Code": "LMN",
+  "Company_Name": "LMN Corporation",
+  "HQ_Address": "1010 Washington Street, Chicago, IL 60602",
+  "Director_Name": "Susan Jones",
+  "Number Of Employees": 1500
+},
+{
+  "_id": {
+    "$oid": "64d913f7d9d644e00a815c17"
+  },
+  "Company_ID": 5,
+  "Company_Code": "DEF",
+  "Company_Name": "DEF Corporation",
+  "HQ_Address": "1111 Maple Street, Houston, TX 77002",
+  "Director_Name": "Peter Johnson",
+  "Number Of Employees": 3000
+}]
